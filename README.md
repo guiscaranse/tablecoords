@@ -6,7 +6,7 @@
 
 [![Licença](https://img.shields.io/badge/licen%C3%A7a-GPLv3-blue.svg)](https://github.com/guiscaranse/tablecoords/blob/master/LICENSE)
 
-Capturar endereços de tabela e converte-las em coordenadas para serem usadas em programas como **ArcGIS*** e **QGis**
+Capturar endereços de tabela e converte-las em coordenadas para serem usadas em programas como **ArcGIS** e **QGis**
  
 ## Características
 
